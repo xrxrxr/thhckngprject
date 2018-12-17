@@ -2,7 +2,7 @@
 
 ##  BetterMotherFuckingWebsite-thp
 
-### lien github
+### lien de l'exercice de mercredi 
 https://github.com/xrxrxr/BetterMotherFuckingWebsite-thp
 
 
