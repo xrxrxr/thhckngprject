@@ -23,7 +23,6 @@ https://github.com/xrxrxr/thhckngprject/blob/master/ruby/pyramide.rb
 ## ma presention sur le slack
 
 
+https://i.imgur.com/jc2zwW1.png
 
-https://imgur.com/jc2zwW1
-
-<img https://i.imgur.com/jc2zwW1.png />
+<a href="https://imgur.com/jc2zwW1"><img src="https://i.imgur.com/jc2zwW1.png" title="source: imgur.com" /></a>
