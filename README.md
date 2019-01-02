@@ -24,8 +24,7 @@ https://github.com/xrxrxr/thhckngprject/blob/master/ruby/pyramide.rb
 
 
 
-https://i.imgur.com/qMwTQa0.png
+https://imgur.com/jc2zwW1
 
 
-
-<img src="https://i.imgur.com/qMwTQa0.png"/></a>
+[img]https://i.imgur.com/jc2zwW1.png[/img]
